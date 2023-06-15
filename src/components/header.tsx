@@ -14,7 +14,7 @@ const Header = () => {
         <div className="max-w-[1080px] container flex flex-wrap justify-between items-center mx-auto">
           <Link href="/" className="flex items-center flex-1">
             <div className="flex flex-row items-center self-center text-xl font-bold whitespace-nowrap text-[#732fff] hover:text-[#932fff]">
-              <div className="hidden sm:block">5ire Tutorial</div>
+              <div className="hidden sm:block">MindCraft</div>
             </div>
           </Link>
           <div className="flex md:order-2" style={{ marginLeft: "2rem" }}>
